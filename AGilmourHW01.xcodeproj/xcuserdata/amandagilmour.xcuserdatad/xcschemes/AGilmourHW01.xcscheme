@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5FA8CADC1E36C7CC00D50239"
+               BuildableName = "AGilmourHW01.app"
+               BlueprintName = "AGilmourHW01"
+               ReferencedContainer = "container:AGilmourHW01.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -12,7 +28,36 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5FA8CAF01E36C7CC00D50239"
+               BuildableName = "AGilmourHW01Tests.xctest"
+               BlueprintName = "AGilmourHW01Tests"
+               ReferencedContainer = "container:AGilmourHW01.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5FA8CAFB1E36C7CC00D50239"
+               BuildableName = "AGilmourHW01UITests.xctest"
+               BlueprintName = "AGilmourHW01UITests"
+               ReferencedContainer = "container:AGilmourHW01.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5FA8CADC1E36C7CC00D50239"
+            BuildableName = "AGilmourHW01.app"
+            BlueprintName = "AGilmourHW01"
+            ReferencedContainer = "container:AGilmourHW01.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +71,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5FA8CADC1E36C7CC00D50239"
+            BuildableName = "AGilmourHW01.app"
+            BlueprintName = "AGilmourHW01"
+            ReferencedContainer = "container:AGilmourHW01.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +90,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5FA8CADC1E36C7CC00D50239"
+            BuildableName = "AGilmourHW01.app"
+            BlueprintName = "AGilmourHW01"
+            ReferencedContainer = "container:AGilmourHW01.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
