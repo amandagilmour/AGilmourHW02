@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     
     var holder: Int = 0
     
-    var holder: Int = 1 
+    var holder1: Int = 1
 
     override func viewDidLoad() {
         super.viewDidLoad()
